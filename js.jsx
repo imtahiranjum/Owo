@@ -5,7 +5,6 @@ function js() {
     <div>
         <div>js</div>
         <div>js</div>
-        <div>js</div>
     </div>
   )
 }
